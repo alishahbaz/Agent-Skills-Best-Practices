@@ -72,6 +72,4 @@ J --> K
 - [ ] Fragile steps are implemented in `scripts/`
 - [ ] Third-party skill has been read and tested safely
 
-## Further reading
 
-- [Key-Takeaways](Key-Takeaways.md)
