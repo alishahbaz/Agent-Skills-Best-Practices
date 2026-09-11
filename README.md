@@ -55,7 +55,7 @@ J --> K
 
 | # | Best practice | Why it matters | Page |
 |---|---------------|----------------|------|
-| 1 | Write descriptions that trigger the skill | The agent only sees the description before running the skill | [1-Description-Trigger]((https://github.com/alishahbaz/Agent-Skills-Best-Practices/wiki/1-Description-Trigger.md)) |
+| 1 | Write descriptions that trigger the skill | The agent only sees the description before running the skill | [1-Description-Trigger](https://github.com/alishahbaz/Agent-Skills-Best-Practices/wiki/1-Description-Trigger.md) |
 | 2 | Build from real expertise | Generic LLM-generated instructions produce generic results | [2-Build-from-Real-Expertise](https://github.com/alishahbaz/Agent-Skills-Best-Practices/wiki/2-Build-from-Real-Expertise.md) |
 | 3 | Spend context wisely | The body consumes context window space | [3-Spend-Context-Wisely](https://github.com/alishahbaz/Agent-Skills-Best-Practices/wiki/3-Spend-Context-Wisely.md) |
 | 4 | Use deterministic scripts | Some steps must not be guessed | [4-Deterministic-Scripts](https://github.com/alishahbaz/Agent-Skills-Best-Practices/wiki/4-Deterministic-Scripts.md) |
